@@ -1,0 +1,26 @@
+.intro h2 {
+  font-family: 'fira Sans', sans-serif;
+  margin-top: 16px;
+}
+
+.intro {
+  font-family: "Source Code Pro", monospace;
+  margin: 12px;
+  padding-left: 1rem;
+  padding-top: 1.8rem;
+}
+
+.skillContainer {
+  padding: 12px 0;
+}
+
+.skillItem {
+  display: flex;
+  align-items: center;
+}
+
+.skill {
+  width: 233px;
+  height: 6px;
+  background-color: red;
+}
