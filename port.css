@@ -116,6 +116,7 @@ body {
 
 .devPic img {
   height: 58vh;
+  border-radius: 50%;
 }
 
 .sidebarGo {
