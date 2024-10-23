@@ -9,7 +9,11 @@ body {
   background-color: #e4f9f5;
   position: relative;
   padding-top: 100px;
+  height : 46rem;
+}
 
+.mountain{
+  width: 500px;
 }
 
 .top-cloud {
