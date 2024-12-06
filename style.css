@@ -10,6 +10,7 @@ body {
   position: relative;
   padding-top: 100px;
   height : 46rem;
+  width:100vw;
 }
 
 .mountain{
